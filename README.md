@@ -1,6 +1,6 @@
 # Label Correlation Based Graph Convolutional Network for Multi-label Text Classification
 
-This repository is the official implementation of our paper - Label Correlation Based Graph Convolutional Network for Multi-label Text Classification.
+This repository is the official implementation of our GCN-MTC paper.
 
 ## Requirements
 
