@@ -1,0 +1,5 @@
+transformers
+sentence-transformers
+Wikipedia-API
+torchmetrics
+nltk
